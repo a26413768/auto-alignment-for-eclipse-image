@@ -1,6 +1,6 @@
-==========================================================
-                   AutoAlignForEclipse
-==========================================================
+
+#             AutoAlignForEclipse
+
 Auto align partial/annular solar eclipse image
 This script will detect Sun and center it.
 Aligned image would be saved in destination folder as the origin file type with same name.
