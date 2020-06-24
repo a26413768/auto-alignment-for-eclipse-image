@@ -7,7 +7,7 @@ Aligned image would be saved in destination folder as the origin file type with 
 The function, 'minboundcircle', is written by John D'Errico
 
  **To use this script, you need to install image processing toolbox.
- **This script was writed in R2019b
+ **This script was written in R2019b
 
  Author: Shun-Chia Yang
  E-mail: a26413768@gmail.com
